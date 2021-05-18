@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hi, I'm Theresa (ela/she) 👋🙂
 
-<!--
-**theresarocha/theresarocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a civil engineer exploring the world of Data Science. I want to improve my hard and soft skills while working on projects, learning, experiencing and sailing in the journey.
 
-Here are some ideas to get you started:
+### About me 👩
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👩‍🎓 Bachelor of Civil Engineering
+- 👷‍♀️ Have a certificate in Worplace Safety
+- 👩‍🏫 Worked as an English teacher
+- 💖 Love teaching and sharing knowledge
+- 👩‍🍳 Love cooking although I'm not a pro
+- 🎬 I like doramas and k-pop music
+
+### Skills - Learning and improving 👩‍💻
+
+- 🗽 Fluent English
+- 🐍 Python
+- 📑 SQL
+- 💻 Power BI
+- 📊 Data Visualization
+
+### Get in touch 
+
+- [Linkedin](https://www.linkedin.com/in/theresarocha/)
+- [Blog](https://theresarocha.medium.com/)
