@@ -1,6 +1,6 @@
 ## Hi, I'm Theresa (ela/she) 👋🙂
 
-[GitHub Logo](GitHub3.jpg)
+![GitHub Logo](GitHub3.jpg)
 
 I'm a civil engineer exploring the world of Data Science. I want to improve my hard and soft skills while working on projects, learning, experiencing and sailing in the journey.
 
