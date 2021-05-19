@@ -24,4 +24,4 @@ I'm a civil engineer exploring the world of Data Science. I want to improve my h
 ### Get in touch 
 
 - [Linkedin](https://www.linkedin.com/in/theresarocha/)
-- [Blog](https://theresarocha.medium.com/)
+- [Blog](https://www.flai.com.br/theresarocha/)
