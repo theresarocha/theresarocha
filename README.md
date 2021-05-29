@@ -23,7 +23,7 @@ I'm a civil engineer exploring the world of Data Science. I want to improve my h
 
 ### Projects
 
-[Data analysis using Power BI](https://github.com/theresarocha/projetos_dashboards)
+[Data Visualization](https://github.com/theresarocha/projetos_dashboards)
 
 ### Get in touch 
 
