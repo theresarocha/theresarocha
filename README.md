@@ -21,6 +21,10 @@ I'm a civil engineer exploring the world of Data Science. I want to improve my h
 - 💻 Power BI
 - 📊 Data Visualization
 
+### Projects
+
+[Projects using Power BI Desktop](https://github.com/theresarocha/projetos_dashboards)
+
 ### Get in touch 
 
 - [Linkedin](https://www.linkedin.com/in/theresarocha/)
