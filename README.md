@@ -24,7 +24,7 @@ I'm a civil engineer exploring the world of Data Science. I want to improve my h
 ### Projects
 
 - [Data Visualization](https://github.com/theresarocha/projetos_dashboards)
-- [Study Projects in Python](https://github.com/theresarocha/estudos_LEFLAI_python)
+- [LEFFLAI Projects](https://github.com/theresarocha/estudos_LEFLAI_python)
 
 ### Get in touch 
 
