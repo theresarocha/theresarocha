@@ -11,7 +11,6 @@ I'm a civil engineer exploring the world of Data Science. I want to improve my h
 - 👩‍🏫 Worked as an English teacher
 - 💖 Love teaching and sharing knowledge
 - 👩‍🍳 Love cooking although I'm not a pro
-- 🎬 I like doramas and k-pop music
 
 ### Skills - Learning and improving 👩‍💻
 
