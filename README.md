@@ -26,6 +26,7 @@ I'm a civil engineer exploring the world of Data Science. I want to improve my h
 - [Exploratory Data Analysis](https://github.com/theresarocha/estudos_estatistica)
 - [LEFFLAI](https://github.com/theresarocha/estudos_LEFLAI_python)
 - [Python Studies](https://github.com/theresarocha/estudos_python)
+- [Machine Learning Studies](https://github.com/theresarocha/estudos_machine_learning)
 
 ### Get in touch 
 
