@@ -17,6 +17,8 @@ I'm a civil engineer exploring the world of Data Science. I want to improve my h
 - 🗽 Fluent English
 - 🐍 Python
 - 📑 SQL
+- 📑 MySQL
+- 📑 PostgreSQL
 - 💻 Power BI
 - 📊 Data Visualization
 
