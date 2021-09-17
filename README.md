@@ -8,6 +8,8 @@
 - 💖 Love teaching and sharing knowledge
 - 👩‍🍳 Love cooking although I'm not a pro
 
+##
+
 ### Skills - Learning and improving 👩‍💻
 
 - 📑 SQL Language
