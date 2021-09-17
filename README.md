@@ -1,4 +1,4 @@
-# Hi, I'm Theresa (ela/she) 👋🙂
+# Hi, I'm Theresa (ela/she)
 
 ### About me 👩
 
