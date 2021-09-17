@@ -3,8 +3,8 @@
 <div>
   
   <a href="https://sites.google.com/view/theresarocha">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=theresarocha&theme=omni&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="140em" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theresarocha&layout=compact&langs_count=16&theme=omni"/>
+  <img height="130em" width="340em" src="https://github-readme-stats.vercel.app/api?username=theresarocha&theme=omni&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="130em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theresarocha&layout=compact&langs_count=16&theme=omni"/>
     
 </div>
 
