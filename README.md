@@ -1,23 +1,32 @@
 # Hi, I'm Theresa (ela/she) 👋🙂
 
-![GitHub Logo](GitHub3.jpg)
+<div>
+  
+  <a href="https://sites.google.com/view/theresarocha">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theresarocha&theme=omni&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theresarocha&layout=compact&langs_count=16&theme=omni"/>
+    
+</div>
 
-I'm a civil engineer exploring the world of Data Science. I want to improve my hard and soft skills while working on projects, learning, experiencing and sailing in the journey.
+<div>
+  <img align="center" alt="Theresa-Python" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+  <img align="center" alt="Theresa-MySQL" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+</div>
+
+
 
 ### About me 👩
 
 - 👩‍🎓 Bachelor of Civil Engineering
-- 👷‍♀️ Have a certificate in Worplace Safety
+- 🗽 Fluent English
 - 👩‍🏫 Worked as an English teacher
 - 💖 Love teaching and sharing knowledge
 - 👩‍🍳 Love cooking although I'm not a pro
 
 ### Skills - Learning and improving 👩‍💻
 
-- 🗽 Fluent English
+- 📑 SQL Language
 - 🐍 Python
-- 📑 SQL
-- 📑 MySQL
 - 💻 Power BI
 - 📊 Data Visualization
 
