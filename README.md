@@ -21,7 +21,7 @@
 ### Skills - Learning and improving 👩‍💻
 
 - 📑 SQL Language
-- 📑 MySQL Language
+- 📑 MySQL
 - 🐍 Python
 - 💻 Power BI
 - 📊 Data Visualization
