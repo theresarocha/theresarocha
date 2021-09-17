@@ -1,15 +1,5 @@
 # Hi, I'm Theresa (ela/she) 👋🙂
 
-<div>
-  
-  <a href="https://sites.google.com/view/theresarocha">
-  <img height="150em" width="350em" src="https://github-readme-stats.vercel.app/api?username=theresarocha&theme=omni&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="150em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theresarocha&layout=compact&langs_count=16&theme=omni"/>
-    
-</div>
-
-##
-  
 ### About me 👩
 
 - 👩‍🎓 Bachelor of Civil Engineering
@@ -38,6 +28,18 @@
 
 ##
 
+### Stats
+
+<div>
+  
+  <a href="https://sites.google.com/view/theresarocha">
+  <img height="150em" width="350em" src="https://github-readme-stats.vercel.app/api?username=theresarocha&theme=omni&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="150em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theresarocha&layout=compact&langs_count=16&theme=omni"/>
+    
+</div>
+  
+##
+
 ### Get in touch 
 
 <div>
@@ -45,3 +47,5 @@
      <a href="https://sites.google.com/view/theresarocha" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00457C?style=for-the-badge&logo=portfolio&logoColor=white" target="_blank"></a>
   <a href="https://theresarocha.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> 
 </div>
+  
+![Snake animation](https://github.com/theresarocha/theresarocha/blob/output/github-contribution-grid-snake.svg)
