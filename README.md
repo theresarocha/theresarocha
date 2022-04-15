@@ -2,20 +2,23 @@
 
 ### About me 👩
 
-- 👩‍🎓 Bachelor of Civil Engineering
+- 👩‍💻 Data Analyst
 - 🗽 Fluent English
+- 👩‍🎓 Bachelor of Civil Engineering
 - 👩‍🏫 Worked as an English teacher
 - 💖 Love teaching and sharing knowledge
 - 👩‍🍳 Love cooking although I'm not a pro
 
 ##
 
-### Skills - Learning and improving 👩‍💻
+### Skills 👩‍💻
 
 - 📑 SQL Language
 - 📑 MySQL
 - 🐍 Python
 - 💻 Power BI
+- 🛠 Tabular Editor
+- 🛠 DAX Studio
 - 📊 Data Visualization
 
 ##
