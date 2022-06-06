@@ -17,8 +17,10 @@
 - 📑 MySQL
 - 🐍 Python
 - 💻 Power BI
+- 💻 Google Data Studio
 - 🛠 Tabular Editor
 - 🛠 DAX Studio
+- 📈 Salesforce
 - 📊 Data Visualization
 
 ##
