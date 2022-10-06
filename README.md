@@ -19,7 +19,6 @@
 - 💻 Power BI
 - 🛠 Tabular Editor
 - 🛠 DAX Studio
-- 📈 Salesforce
 - 📊 Data Visualization
 
 ##
