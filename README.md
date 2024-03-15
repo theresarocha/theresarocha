@@ -25,8 +25,9 @@
 
 ### Projects
 
-- [Exploratory Data Analysis](https://github.com/theresarocha/estudos_estatistica)
+- [Exploratory Data Analysis Living Wage](https://github.com/theresarocha/EDA_Living_Wage)
 - [Exploratory Data Analysis Marketing](https://github.com/theresarocha/EDA_Marketing)
+- [Exploratory Data Analysis](https://github.com/theresarocha/estudos_estatistica)
 - [Machine Learning Studies](https://github.com/theresarocha/estudos_machine_learning)
 - [Data Visualization](https://github.com/theresarocha/projetos_dashboards)
 - [LEFFLAI](https://github.com/theresarocha/estudos_LEFLAI_python)
