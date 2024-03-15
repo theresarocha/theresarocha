@@ -25,12 +25,13 @@
 
 ### Projects
 
-- [Data Visualization](https://github.com/theresarocha/projetos_dashboards)
 - [Exploratory Data Analysis](https://github.com/theresarocha/estudos_estatistica)
 - [Exploratory Data Analysis Marketing](https://github.com/theresarocha/EDA_Marketing)
+- [Machine Learning Studies](https://github.com/theresarocha/estudos_machine_learning)
+- [Data Visualization](https://github.com/theresarocha/projetos_dashboards)
 - [LEFFLAI](https://github.com/theresarocha/estudos_LEFLAI_python)
 - [Python Studies](https://github.com/theresarocha/estudos_python)
-- [Machine Learning Studies](https://github.com/theresarocha/estudos_machine_learning)
+
 
 ##
 
