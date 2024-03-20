@@ -1,6 +1,6 @@
-# Hi, I'm Theresa (ela/she)
+# Hi, I'm Theresa (she/her)
 
-### About me 👩
+### About me 
 
 - 👩‍💻 Data Analyst
 - 🗽 Fluent English
@@ -12,7 +12,7 @@
 
 ##
 
-### Skills 👩‍💻
+### Skills 
 
 - 📊 Data Visualization
 - 📑 SQL 
